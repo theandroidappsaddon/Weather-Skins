@@ -1,0 +1,52 @@
+Curved Gingerbread	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-urveedgingerbread.apk	com.androidapps.widget.clock.skin.gingerbread.clock	
+Curved Blackwhite	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-curveblackwhite.apk	com.androidapps.widget.clock.skin.curvedblackwhite.clock	
+Hot Pink	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-hotpink.apk	com.androidapps.widget.skins.clock.hotpink.clock	
+Tron	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-Tron.apk	com.androidapps.widgets.clock.tron	
+Blue Stained Glass	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-bluestainedglass.apk	com.androidapps.widget.clock.skins.bluestainedglass	
+All Black	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-allblack.apk	com.androidapps.widget.clock.skin.allblack	
+Crate	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-crate.apk	com.androidapps.widget.clock.skins.crate	
+Gingerbread	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-gingerbread.apk	com.androidapps.widget.clock.skins.gingerbread	
+42 Blue	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-42blue.apk	com.androidapps.widget.clock.skins.c42blue	
+Burning Aqua	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-burningaqua.apk	com.androidapps.widget.clock.skins.burningaqua	
+Blue Wave	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-bluewave.apk	com.androidapps.widget.clock.skins.bluewave	
+Domo	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-domo.apk	com.androidapps.widget.clock.skins.domo	
+Frosty Naked	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-frostynaked.apk	com.androidapps.widget.clock.skins.frostynaked	
+Adw1	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-adw1.apk	com.androidapps.widget.clock.skins.adw1	
+Dark Nex	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-darknex.apk	com.androidapps.widget.clock.darknex	
+Blue Cashmere	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-bluecashmere.apk	com.androidapps.widget.clock.skins.bluecashmere	
+Cyan Cashmere	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-cyancashmere.apk	com.androidapps.widget.clock.skins.cyancashmere	
+Red Cashmere	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-credcashmere.apk	com.androidapps.widget.clock.skins.redcashmere	
+Broken Glass PCB	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-brokenglasspcb.apk	com.androidapps.widget.click.skin.brokenglasspcb	
+GSP	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-gsp.apk	com.androidapps.widget.clock.skins.gsp	
+Droid	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-droid.apk	com.androidapps.widget.clock.skins.droid	
+Destruct Clock	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-destructclock.apk	com.androidapps.widget.clock.skin.destructclock	
+Default	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-default.apk	com.androidapps.widget.clock.skins.defaultclock	
+Grunge	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-grunge.apk	com.androidapps.widget.clock.skin.grunge	
+Binary Green	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-binary-green.apk	com.androidapps.widget.clock.skin.binarygreen	
+Back To School	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-backtoschool.apk	com.androidapps.widget.clock.skin.backtoschool	
+Broken Wings	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-brokenwings.apk	com.androidapps.widget.clock.skin.brokenwings	
+Gear up	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-gearup.apk	com.androidapps.widget.clock.skin.gearup	
+Grid	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-GrId.apk	com.androidapps.widget.clock.skin.grid	
+Blue star	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-bluestar.apk	com.androidapps.widget.clock.skin.bluestar	
+Dharma	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-dharma.apk	com.androidapps.widget.clock.skin.dharma	
+H7C	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-h7c.apk	om.androidapps.widget.clock.skin.h7c	
+bwchrome	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-bwchrome.apk	com.androidapps.widget.clock.skin.bwchrome	
+Carbon Metal	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-carbonmetal.apk	com.androidapps.widget.clock.skin.carbonmetal	
+Grey Grow	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-greygrow.apk	com.androidapps.widget.clock.skin.greygrow	
+Dark Edge	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-darkedge.apk	com.androidapps.widget.clock.skin.darkedge	
+Gold	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-gold.apk	com.androidapps.widget.clock.gold	
+Glass	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-glass.apk	com.androidapps.widget.clock.skin.glass	
+Caress Of Steel	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-caressofsteel.apk	com.androidapps.widgets.clock.caressofsteel	
+Blue Glow	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-blueglow.apk	com.androidapps.widgets.clock.blueglow	
+Blackboard	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-blackboard.apk	com.androidapps.widgets.clock.blackboard	
+Brushed	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-brushed.apk	com.androidapps.widget.clock.brushed	
+Dirty Paper	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-dirtypaper.apk	com.androidapps.widget.clock.dirtypaper	
+Binary Blue	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-binaryblue.apk	com.androidapps.widget.clock.binaryblue	
+DsDigi	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-dsdigi.apk	com.androidapps.widget.clock.dsdigi	
+Edge	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-edge.apk	com.androidapps.widget.clock.edge	
+Aurora	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-aurora.apk	com.androidapps.widget.clock.aurora	
+Dark Industrial	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-darkindustrial.apk	com.androidapps.widget.clock.darkindustrial	
+42	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-42.apk	com.androidapps.widget.clock.skin.c42	
+Exial 	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-ExiaHD.apk	com.androidapps.widget.clock.exiahd	
+Digital	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-digital.apk	com.androidapps.widget.clock.digital	
+Cute	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-cute.apk	com.androidapps.clock.cute	
