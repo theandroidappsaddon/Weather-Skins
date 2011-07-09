@@ -1,0 +1,13 @@
+After Hour	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-afterhour.apk	com.androidapps.widget.toggle.skin.afterhour	
+Avenue	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-avenue.apk	com.androidapps.widget.toggle.skin.avenue	
+Blackipad	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-blackipad.apk	com.androidapps.widget.skins.toggle.blackipad	
+Default	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-default.apk	com.androidapps.widgets.toggle.default	
+Glass	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-glass.apk	com.androidapps.widget.toggle.skins.glass	
+Hud	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-hud.apk	com.androidapps.widget.toggle.skin.hud	
+iFlat	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-iflat.apk	com.androidapps.widget.toggle.skins.iflat	
+Matte	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-matte.apk	com.androidapps.widget.toggle.skins.matte	
+Mik	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-mik.apk	com.androidapps.widget.toggle.skins.mik	
+Omgpop	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-omgpop.apk	com.androidapps.widget.toggle.skins.omgpop	
+Steam punk	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-steampunk.apk	com.androidapps.widget.toggle.skins.steampunk	
+Win7	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-win7.apk	com.androidapps.widget.toggle.skins.win7	
+Zelda	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/t-zelda.apk	com.androidapps.widget.toggle.skins.zelda	
