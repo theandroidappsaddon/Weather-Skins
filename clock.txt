@@ -1,3 +1,33 @@
+Evo	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-evo.apk	com.androidapps.widget.clock.skin.evo
+Home Plus	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-homeplus.apk	com.androidapps.widget.clock.skin.homeplus
+iFlat	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-iflat.apk	com.androidapps.widget.clock.skin.iflat
+Industrial	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-industrial.apk	com.androidapps.widget.clock.skin.industrial
+Laser	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-laser.apk	com.androidapps.widget.clock.skin.laser
+Legolicious	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-legolicious.apk	com.androidapps.widget.clock.skin.legolicious
+Love	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-love.apk	com.androidapps.widget.clock.skin.love
+Mario	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-mario.apk	com.androidapps.widget.clock.skin.mario
+Mini bev	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-minibev.apk	com.androidapps.widget.clock.skin.minibev
+Never Clean	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-nc.apk	com.androidapps.widget.clock.skin.neverclean
+Ninja	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-ninja.apk	com.androidapps.widget.clock.skin.ninja
+Oscilloscope	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-oscilloscope.apk	com.androidapps.widget.clock.skin.oscilloscope
+Paper	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-paper.apk	com.androidapps.widget.clock.skin.paper
+Pink Star	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-pinkstar.apk	com.androidapps.widget.clock.skin.pinkstar
+Pixel Takeover	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-pixeltakeover.apk	com.androidapps.widget.clock.skin.pixeltakeover
+Ravie Glass	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-ravieglass.apk	com.androidapps.widget.clock.skin.ravieglass
+Retro Alarm	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-retrolarm.apk	com.androidapps.widget.clock.skin.retroalarm
+Scan Lines	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-scanlines.apk	com.androidapps.widget.clock.skin.scanlines
+Shelby	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-shelby.apk	com.androidapps.widget.clock.skin.shelby
+Shiny	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-shiny.apk	com.androidapps.widget.clock.skin.shiny
+Silver	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-silver.apk	com.androidapps.widget.clock.skin.silver
+Simple Black	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-simpleblack.apk	com.androidapps.widget.clock.skin.simpleblack
+Spirelli Darky	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-spirelli-darky.apk	com.androidapps.widget.clock.skin.spirellid
+Splat	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-splat.apk	com.androidapps.widget.clock.skin.splat
+Steam Punk	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-steampunk.apk	com.androidapps.widget.clock.skin.steampunk
+Steel Beast	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-steelbeast.apk	com.androidapps.widget.clock.skin.steelbeast
+Stone Carved	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-stonecarved.apk	com.androidapps.widget.clock.skin.stonecarved
+Sweet Leaf	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-sweetleaf.apk	com.androidapps.widget.clock.skin.sweefleaf
+TNG	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-tng.apk	com.androidapps.widget.clock.skin.tng
+Xmas	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-xmas.apk	com.androidapps.widget.clock.skin.xmas
 Curved Gingerbread	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-urveedgingerbread.apk	com.androidapps.widget.clock.skin.gingerbread.clock	
 Curved Blackwhite	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-curveblackwhite.apk	com.androidapps.widget.clock.skin.curvedblackwhite.clock	
 Hot Pink	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-hotpink.apk	com.androidapps.widget.skins.clock.hotpink.clock	
