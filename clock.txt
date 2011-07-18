@@ -80,3 +80,4 @@ Dark Industrial	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/
 Exial 	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-ExiaHD.apk	com.androidapps.widget.clock.exiahd	
 Digital	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-digital.apk	com.androidapps.widget.clock.digital	
 Cute	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-cute.apk	com.androidapps.clock.cute	
+Winnie	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/c-winnie.apk	com.androidapps.clock.winnie
