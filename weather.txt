@@ -30,3 +30,9 @@ Sticker	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-sticke
 Carved	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-stonecarved.apk	com.androidapps.widget.weather.stonecarved	
 Vector	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-vector.apk	com.androidapps.widget.weather.vector	
 White	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-white.apk	com.androidapps.widget.weather.white	
+Broken Wings	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-brokenwings.apk	com.androidapps.widget.weather.brokenwings	
+Emoti Sun	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-emotisun.apk	com.androidapps.widget.weather.emotisun	
+Pink Star	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-pinkstar.apk	com.androidapps.widget.weather.pinkstar	
+Weather 3D	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-weather3d.apk	com.androidapps.widget.weather.weather3d	
+Linear	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-linear.apk	com.androidapps.widget.weather.linear	
+Paper	https://raw.github.com/theandroidappsaddon/Weather-Skins/master/w-paper.apk	com.androidapps.widget.weather.paper	
